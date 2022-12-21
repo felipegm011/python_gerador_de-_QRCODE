@@ -1,1 +1,3 @@
-# python_gerador_de-_QRCODE
+realizar instalação da biblioteca qrcode
+
+pip install qrcode
