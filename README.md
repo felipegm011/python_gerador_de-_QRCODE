@@ -1,0 +1,1 @@
+# python_gerador_de-_QRCODE
